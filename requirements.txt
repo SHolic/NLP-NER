@@ -1,0 +1,6 @@
+jieba
+joblib
+scikit-learn
+pandas
+numpy
+sklearn_crfsuite
